@@ -1,4 +1,4 @@
-# webmonetization
+# Web Monetization @ Solid
 Discussions about Solid + Web Monetization
 
 
