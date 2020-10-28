@@ -1,7 +1,6 @@
 # Web Monetization @ Solid
 Discussions about Solid + Web Monetization
 
-
 # Projects
 ## itme.online
 [_Travis Vachon & team, USA_](https://www.grantfortheweb.org/blog/2020-flagship-grantees)
@@ -12,3 +11,8 @@ Creating an open source Solid application that will let users easily publish, cr
 [_Michiel de Jong, Netherlands_](https://www.grantfortheweb.org/blog/2020-mid-grantees)
 
 Enabling Web Monetization by default in all open source implementations of the Solid pod server specification. Also, making changes to Darcy Social, a Solid-based social space, so that payments end up at the actual creator of the content that is being viewed, even if it's embedded in a newsfeed.
+
+## ODRL powered DataDeals + InterLedger
+[_Ontola, Netherlands_](https://ontola.io/)
+
+Using the Interledger speficication to allow Solid Pod owners to sell their data. Powered by the [ODRL](https://www.w3.org/TR/odrl-model/) specification.
