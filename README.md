@@ -12,7 +12,13 @@ Creating an open source Solid application that will let users easily publish, cr
 
 Enabling Web Monetization by default in all open source implementations of the Solid pod server specification. Also, making changes to Darcy Social, a Solid-based social space, so that payments end up at the actual creator of the content that is being viewed, even if it's embedded in a newsfeed.
 
-## ODRL powered DataDeals + InterLedger
-[_Ontola, Netherlands_](https://ontola.io/)
+## Web Monetization for Solid based Data Spaces
+_[Ontola](https://ontola.io/) & [Dexes](dexes.eu/)_
 
-Using the Interledger speficication to allow Solid Pod owners to sell their data. Powered by the [ODRL](https://www.w3.org/TR/odrl-model/) specification.
+Standardizing the agreements for conditional data sharing between data owner and data user to allow Solid Pod owners to monetize their data. Pods re-decentralize the web by giving people a way to store their data, and make it available to others while keeping full data ownership. Interledger offers a perfect solution for micro-payments without the need for complex and centralized payment providers. 
+
+Combining [ODRL](https://www.w3.org/TR/odrl-model/) + Interledger.
+
+## Reciprocal ecosystem for decentralized health-data
+
+Researching and building a proof of concept as a first step towards a new financial and data ecosystem combining Solid Webapps, Solid Pods, and Web Monetization. Users will pay webapps to access supportive health webapps and process and store their data on their Solid Pod. Researchers get access to data of the user’s Solid Pod and pay the user for the data, with respect for privacy and consent. This will support health improvements on both a personal and community level, will give people control over their data, and will simultaneously nourish academic research institutes with data from more diverse groups.
