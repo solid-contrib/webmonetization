@@ -10,10 +10,14 @@ Creating an open source Solid application that will let users easily publish, cr
 ## Monetizing the user-centric read-write web with Solid
 [_Michiel de Jong, Netherlands_](https://www.grantfortheweb.org/blog/2020-mid-grantees)
 
+(See [WebMonetization Community](https://community.webmonetization.org/michielbdejong/comment/ec))
+
 Enabling Web Monetization by default in all open source implementations of the Solid pod server specification. Also, making changes to Darcy Social, a Solid-based social space, so that payments end up at the actual creator of the content that is being viewed, even if it's embedded in a newsfeed.
 
 ## Web Monetization for Solid based Data Spaces
 _[Ontola](https://ontola.io/) & [Dexes](dexes.eu/)_
+
+(See [WebMonetization Community](https://community.webmonetization.org/joepio/comment/c8))
 
 Standardizing the agreements for conditional data sharing between data owner and data user to allow Solid Pod owners to monetize their data. Pods re-decentralize the web by giving people a way to store their data, and make it available to others while keeping full data ownership. Interledger offers a perfect solution for micro-payments without the need for complex and centralized payment providers. 
 
