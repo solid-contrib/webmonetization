@@ -15,7 +15,7 @@ Creating an open source Solid application that will let users easily publish, cr
 Enabling Web Monetization by default in all open source implementations of the Solid pod server specification. Also, making changes to Darcy Social, a Solid-based social space, so that payments end up at the actual creator of the content that is being viewed, even if it's embedded in a newsfeed.
 
 ## Web Monetization for Solid based Data Spaces
-_[Ontola](https://ontola.io/) & [Dexes](dexes.eu/)_
+_[Ontola](https://ontola.io/) & [Dexes](https://www.dexes.nl/home-dexes/)_
 
 (See [WebMonetization Community](https://community.webmonetization.org/joepio/comment/c8))
 
