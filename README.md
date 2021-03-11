@@ -2,7 +2,7 @@
 Discussions about Solid + Web Monetization
 
 # Projects
-## itme.online
+## understory.garden (formerly itme.online)
 [_Travis Vachon & team, USA_](https://www.grantfortheweb.org/blog/2020-flagship-grantees)
 
 Creating an open source Solid application that will let users easily publish, create, and monetize custom pages showcasing writing, music and video content hosted in their Solid Pod at a domain of their choosing. Existing platforms that allow users to monetize their content require either the skills and capitalization to maintain custom web infrastructure or a willingness to let a third party become a steward of both content and data about content creators. itme.online will provide a new option for users who would like to maintain full sovereignty over their content and monetize it without running a web server. Building on top of Solid and Web Monetization means that users will be free to move their content off of itme without interrupting the monetization of their content. Team includes Ian Davis, Tani Olhanoski, and Dr Dédé Tetsubayashi.
