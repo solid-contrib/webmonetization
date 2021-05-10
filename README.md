@@ -31,3 +31,10 @@ Combining [ODRL](https://www.w3.org/TR/odrl-model/) + Interledger.
 _[Gijs van den Beucken](https://opengezondheid.nl/) & [Ontola](https://ontola.io/)_
 
 Researching and building a proof of concept as a first step towards a new financial and data ecosystem combining Solid Webapps, Solid Pods, and Web Monetization. Users will pay webapps to access supportive health webapps and process and store their data on their Solid Pod. Researchers get access to data of the user’s Solid Pod and pay the user for the data, with respect for privacy and consent. This will support health improvements on both a personal and community level, will give people control over their data, and will simultaneously nourish academic research institutes with data from more diverse groups.
+
+## Incentivizing Decentralized Application Development within Solid through Web Monetization
+_[KNoWS/IDLab – imec](https://github.com/KNowledgeOnWebScale/solid-web-monetization)_
+
+The **Solid decentralization effort** decouples data from services, so that users are in full control over their personal data.
+Since services can not primarily depend on data collection as a primary business model anymore, alternative forms of monetization,
+such as **micropayments via Web Monetization** are essential for **incentivizing application development**.
