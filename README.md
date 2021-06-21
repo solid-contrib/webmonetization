@@ -38,3 +38,15 @@ _[KNoWS/IDLab – imec](https://github.com/KNowledgeOnWebScale/solid-web-monetiz
 The **Solid decentralization effort** decouples data from services, so that users are in full control over their personal data.
 Since services can not primarily depend on data collection as a primary business model anymore, alternative forms of monetization,
 such as **micropayments via Web Monetization** are essential for **incentivizing application development**.
+
+## Monetising Resources on a SoLiD Pod Using Blockchain Transactions (ESWC Demo)
+_Hendrik Becker, [Hung Vu](https://github.com/bright-fox), Anett Katzenbach, [Christoph Braun](https://github.com/uvdsl) & [Tobias Käfer](https://www.aifb.kit.edu/web/Tobias_K%C3%A4fer), [Institute AIFB, Karlsruhe Institute of Technology (KIT), Germany](https://aifb.kit.edu/web/Hauptseite/en)_
+
+**Abstract.** Our demo showcases a system that allows users to provide access to web resources in exchange for payments via the Ethereum blockchain. The system enables users to create offers for their resources or buy access rights for resources belonging to other users. Access rights can be granted only for a limited amount of time. We built our system as SoLiD Pods and Apps: We developed two server modules for SoLiD Pods that automatically (1) grant access for valid payments via the blockchain and (2) remove expired access rights. On top, we developed a SoLiD App that allows to offer resources, browse and request offered resources, and make payments via the blockchain.
+
+| Resource | URI |
+|---|---|
+|Teaser (1 min) | https://www.youtube.com/watch?v=sqIeYRTrkEg |
+| Demo Website (inkl. 3 min video) | http://people.aifb.kit.edu/co1683/2021/eswc-demo-solibra/ |
+| Code | https://github.com/bright-fox/SolidBlockchain |
+| Paper | http://people.aifb.kit.edu/co1683/2021/eswc-demo-solibra/solibra.pdf |
