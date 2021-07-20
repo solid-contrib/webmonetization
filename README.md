@@ -43,6 +43,8 @@ The **Solid decentralization effort** decouples data from services, so that user
 Since services can not primarily depend on data collection as a primary business model anymore, alternative forms of monetization,
 such as **micropayments via Web Monetization** are essential for **incentivizing application development**.
 
+See https://github.com/KNowledgeOnWebScale/solid-web-monetization for more information.
+
 ## Monetising Resources on a SoLiD Pod Using Blockchain Transactions (ESWC Demo)
 _Hendrik Becker, [Hung Vu](https://github.com/bright-fox), Anett Katzenbach, [Christoph Braun](https://github.com/uvdsl) & [Tobias Käfer](https://www.aifb.kit.edu/web/Tobias_K%C3%A4fer), [Institute AIFB, Karlsruhe Institute of Technology (KIT), Germany](https://aifb.kit.edu/web/Hauptseite/en)_
 
