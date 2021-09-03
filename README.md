@@ -2,12 +2,36 @@
 Discussions about Solid + Web Monetization
 
 ## Linking to a Payment Pointer
-You can link from a WebID to a payment pointer using the [`ilp:InterledgerPaymentPointer`](https://github.com/solid/webmonetization/issues/9) class.
+You can link from a WebID to a payment pointer using the
+[`ilp:InterledgerPaymentPointer`](https://github.com/solid/webmonetization/issues/9) class.
 
-You can link from a pod to a payment pointer using a [Vanity Payment Pointer](https://community.webmonetization.org/michielbdejong/web-monetization-on-solid-2bbf).
+You can link from a pod to a payment pointer using a
+[Vanity Payment Pointer](https://community.webmonetization.org/michielbdejong/web-monetization-on-solid-2bbf).
 
 ## Requiring Payment for resources
-You can require payment for access to a resource using the [`acl:PayingAgent`](https://github.com/solid/acl-check/pull/38) class.
+You can require payment for access to a resource using the
+[`acl:PayingAgent`](https://github.com/solid/acl-check/pull/38) class.
+
+The WAC spec doesn't prescribe specific http response codes, but a server could
+inform the client that paying could help to get access by responding with
+`402 Payment Required` and including a `Pay` http response header, with payment
+instructions.
+
+A 402 would probably take preference over a 403 response when access is forbidden
+for the currently authenticated agent, but not for paying agents. But a 402 would
+probably not take preference over a 401 response.
+
+We identified two approaches for access control: "guest list" and "tickets".
+In the "guest list" approach, the server looks at some log of payments, and checks
+whether a payment has been made that would give the current WebID access to the
+current resource. This is the approach that is now
+[implemented in NSS](https://github.com/solid/node-solid-server/pull/1577) and
+[tested by the (experimental) monetization tests](https://github.com/solid/monetization-tests).
+
+In the "tickest" approach, the client would send an additional http request header
+containing a verifiable credential, that proves their status of paying agent. This
+approach is currently blocked on
+[W3C-VC support in WAC](https://github.com/solid/authorization-panel/issues/79).
 
 # Projects
 ## understory.garden (formerly itme.online)
