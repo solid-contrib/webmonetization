@@ -1,6 +1,14 @@
 # Web Monetization @ Solid
 Discussions about Solid + Web Monetization
 
+## Linking to a Payment Pointer
+You can link from a WebID to a payment pointer using the [`ilp:InterledgerPaymentPointer`](https://github.com/solid/webmonetization/issues/9) class.
+
+You can link from a pod to a payment pointer using a [Vanity Payment Pointer](https://community.webmonetization.org/michielbdejong/web-monetization-on-solid-2bbf).
+
+## Requiring Payment for resources
+You can require payment for access to a resource using the [`acl:PayingAgent`](https://github.com/solid/acl-check/pull/38) class.
+
 # Projects
 ## understory.garden (formerly itme.online)
 [_Tani Olhanoski and team, USA_](https://www.grantfortheweb.org/blog/2020-flagship-grantees)
