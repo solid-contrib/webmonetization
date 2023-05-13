@@ -61,10 +61,10 @@ Combining [ODRL](https://www.w3.org/TR/odrl-model/) + Interledger.
 
 Grant report: https://community.webmonetization.org/wbsbds/web-monetization-for-solid-based-data-spaces-grant-report-1-4fal
 
-## Reciprocal ecosystem for decentralized health-data
+## Reciprocal ecosystem for citizen science
 _[Gijs van den Beucken](https://opengezondheid.nl/) & [Ontola](https://ontola.io/)_
 
-Researching and building a proof of concept as a first step towards a new financial and data ecosystem combining Solid Webapps, Solid Pods, and Web Monetization. Users will pay webapps to access supportive health webapps and process and store their data on their Solid Pod. Researchers get access to data of the user’s Solid Pod and pay the user for the data, with respect for privacy and consent. This will support health improvements on both a personal and community level, will give people control over their data, and will simultaneously nourish academic research institutes with data from more diverse groups.
+Researching and building a proof of concept of a web-based platform to enable citizens to participate in citizen science, integrating interledger protocol and payment pointers so researchers can reimburse citizens for participation in for example environmental health research. Survey-data will be stored in linked data format and users can copy the data on their own SolidPod.
 
 Grant report: https://community.webmonetization.org/refdhd/reciprocal-ecosystem-for-citizen-science-grant-report-1-3d27
 
